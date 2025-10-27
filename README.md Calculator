@@ -19,3 +19,6 @@ elif operator == '/':
         # handel invalid operator
 else: 
     print("invalid opertaor")
+
+"Author _ Hamza Raza"
+
